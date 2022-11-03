@@ -1,6 +1,7 @@
 # flask-blog-site
 
 Photos zoom outed to fill in one page
+Made with Python
 
 Index Page
 ![Ekran görüntüsü_20221103_220155](https://user-images.githubusercontent.com/109307635/199812057-a94e6e21-66a3-40a5-afc0-bed2244d17e4.png)
